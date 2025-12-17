@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* Opcional: Seus ajustes de tema */
+@theme {
+  --font-sans: "Inter", sans-serif;
+  --color-slate-950: #020617;
+}
+
+/* O resto do CSS normal */
+body {
+  background-color: var(--color-slate-950);
+}
