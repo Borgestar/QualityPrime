@@ -10,7 +10,7 @@ const cars = [
     price: "R$ 149.900", 
     km: "15.000 KM",
     // Foto: SUV Branco Moderno (Genérico, parece Compass)
-    img: "/fotojeep.jpg"
+    img: "fotojeep.jpg"
   },
   { 
     id: 2, 
@@ -19,7 +19,7 @@ const cars = [
     price: "R$ 145.500", 
     km: "0 KM",
     // Foto: Sedan Prata/Cinza (Estilo Corolla)
-    img: "/fotocoroloa.jpg" 
+    img: "fotocoroloa.jpg" 
   },
   { 
     id: 3, 
@@ -28,7 +28,7 @@ const cars = [
     price: "R$ 132.900", 
     km: "22.000 KM",
     // Foto: SUV Compacto Urbano
-    img: "/fototcross.jpg" 
+    img: "fototcross.jpg" 
   },
   { 
     id: 4, 
@@ -37,7 +37,7 @@ const cars = [
     price: "R$ 128.900", 
     km: "35.000 KM",
     // Foto: Picape/Caminhonete (Estilo Toro/Raptor)
-    img: "/fototoro.jpg" 
+    img: "fototoro.jpg" 
   },
   { 
     id: 5, 
@@ -46,7 +46,7 @@ const cars = [
     price: "R$ 164.000", 
     km: "12.000 KM",
     // Foto: Crossover Moderno
-    img: "/fotohrv.jpg"
+    img: "fotohrv.jpg"
   },
 ];
 

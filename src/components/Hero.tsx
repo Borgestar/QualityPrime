@@ -11,7 +11,7 @@ export const Hero = () => {
         {/* Imagem de Alta Qualidade (Estilo Dark Studio) */}
         {/* object-right garante que o carro fique na direita */}
         <img 
-          src="/teste1.jpg" 
+          src="teste1.jpg" 
           alt="Carro Hero" 
           className="w-full h-full object-cover object-right opacity-90"
         />
