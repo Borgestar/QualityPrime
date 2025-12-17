@@ -6,7 +6,9 @@ import tailwindcss from '@tailwindcss/vite'
 export default defineConfig({
   plugins: [react(), tailwindcss()],
   
-  // ADICIONE ISSO AQUI:
-  // Troque 'nome-do-repositorio' pelo nome exato que você criou no GitHub
-  base: "https://github.com/Borgestar/QualityPrime"
+  // ERRADO (O que você deve ter feito):
+  // base: 'https://github.com/Borgestar/QualityPrime', 
+  
+  // CERTO (O que deve estar):
+  base: "/QualityPrime/", 
 })
